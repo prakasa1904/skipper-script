@@ -2,9 +2,8 @@
 skipper
 
 Usage:
-  skipper hello
-  skipper -h | --help
-  skipper --version
+  skipper deploy
+  skipper feature list
 
 Options:
   -h --help                         Show this screen.
